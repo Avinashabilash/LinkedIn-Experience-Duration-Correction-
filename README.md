@@ -1,4 +1,5 @@
 ## LinkedIn bug:
+I found a bug in linkedin whereas the bug may let to experience  duriation of each person work experience 
 
 ## AIM :
 
